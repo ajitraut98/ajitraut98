@@ -1,5 +1,4 @@
-### Hi I am Ajit Raut https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
-
+### Hi I am Ajit Raut
 
 
 <!--
