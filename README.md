@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi I am Ajit Raut ![image](https://user-images.githubusercontent.com/83053794/174077495-0d6da0a9-3baa-45b5-92d2-7a2261dc9a28.png)
+
 
 <!--
 **ajitraut98/ajitraut98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
