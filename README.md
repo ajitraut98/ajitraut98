@@ -1,4 +1,5 @@
-### Hi I am Ajit Raut ![image](https://user-images.githubusercontent.com/83053794/174077495-0d6da0a9-3baa-45b5-92d2-7a2261dc9a28.png)
+### Hi I am Ajit Raut ![image](https://user-images.githubusercontent.com/83053794/174077697-f4302d6c-e66e-484f-baa6-050c30c1da7e.png)
+
 
 
 <!--
