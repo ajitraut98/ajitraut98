@@ -1,14 +1,16 @@
-<p  align="center"><img src = "IMG/intro.gif"></p>
+## HELLO WORLD, I’M AJIT RAUT <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Engineer;I'm+also+studying+Artificial+Intelligence" /></a>
+</p>
 
-# Hello World, I'm AJIT! 👋
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-971901.svg?style=flat&logo=github)](https://github.com/ajitraut98)
 <img alt="VISITORS" src="https://komarev.com/ghpvc/?username=ajitraut98&style=flat&labelColor=red&logo=github&label=PROFILE+VIEWS&color=971901"/>
 <img alt="FOLLOWERS" src="https://img.shields.io/github/followers/ajitraut98?color=971901&logo=githubb&label=FOLLOWERS"/>
 
-<a href="https://www.linkedin.com/in/ajitraut/">
-  <img align="left" alt="Ajit's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 <a href="https://github.com/ajitraut98">
   <img align="left" alt="Ajit's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -26,7 +28,7 @@
 </a>
 <br />
 
-## I'm [**Ajit**] and welcome to my GitHub profile! :octocat:
+##  welcome to my GitHub profile! :octocat:
 
 <img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
 
@@ -34,10 +36,10 @@ I'm a **`Data Analyst`**, an **`Open-source Contributor`** and a **`Content Crea
 
 ❤️ **Fun facts:**
 
-* 👩‍🎓 I'm a Data Science. 
+* 👩‍🎓 I'm a Avid Learner. 
 * ✍️ Pursued Post Graduate Degree in Data Science to improve my knowledge in data science field. 
-* ✨ Spend hours to beautify my code and GitHub markdown because my OCD cannot stand reading sloppy documentation. 
-* 📈 Particularly interested in **`Predictive Analytics`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems.
+* ✨ Spend hours to beautify my code and GitHub markdown. 
+* 📈 Particularly interested in **`Data Engineering`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems.
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
@@ -47,15 +49,6 @@ I'm a **`Data Analyst`**, an **`Open-source Contributor`** and a **`Content Crea
 ---
 ---
 
-## Music Playing 🎵
 
-<p align="center">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z2l4laxdexqpfi2rbonfbinxme&cover_image=true&theme=default">
-</p>
-
-
-
----
 
 ## View more repositories 👇
