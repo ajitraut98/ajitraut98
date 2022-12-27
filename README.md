@@ -42,6 +42,7 @@ I'm a **`Data Analyst`**, an **`Open-source Contributor`** and a **`Content Crea
 * ✍️ Pursued Post Graduate Degree in Data Science to improve my knowledge in data science field. 
 * ✨ Spend hours to beautify my code and GitHub markdown. 
 * 📈 Particularly interested in **`Data Engineering`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems.
+* ✨ In my free time I enjoy my spotify Playlist
 
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **Languages/Tech Stack:** 
