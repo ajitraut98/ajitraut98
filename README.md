@@ -34,7 +34,7 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
 
-I'm a **`Data Analyst`**, an **`Open-source Contributor`** and a **`Content Creator`**!
+I'm a **`Data Analyst`**,  and a **`Content Creator`**!
 
 ❤️ **Fun facts:**
 
