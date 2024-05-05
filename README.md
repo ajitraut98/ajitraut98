@@ -1,6 +1,6 @@
 ## HELLO WORLD, I’M AJIT RAUT <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Engineer;I'm+also+studying+Quant+Finance" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Engineer;I'm+studying+Quant+Finance" /></a>
 </p>
 
 <img align="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
