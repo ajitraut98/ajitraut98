@@ -1,6 +1,6 @@
 ## HELLO WORLD, I’M AJIT RAUT <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 32px height = 32px> 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Engineer;I'm+studying+Quant+Finance" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=30&lines=Welcome+to+my+GitHub+Profile!;Talk+about+Quant+Finance" /></a>
 </p>
 
 <img align="center" alt="coding" width="600" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
@@ -34,14 +34,9 @@
 
 <img align="right" height="250" width="375" alt="GIF" src="IMG/quote.gif" />
 
-I'm a **`Data Analyst`**,  and a **`Content Creator`**!
 
-❤️ **Fun facts:**
-
-* 👩‍🎓 I'm a Avid Learner. 
-* ✍️ Pursued Post Graduate Degree in Data Science to improve my knowledge in data science field. 
-* ✨ Spend hours to beautify my code and GitHub markdown. 
-* 📈 Particularly interested in **`Data Engineering`**, **`Machine Learning`** and applying statistical models to solve interesting novel business problems.
+❤️ **Fun facts:** 
+* 📈 Particularly interested in **`Finance`**, **`Trading`** and applying statistical models.
 * ✨ In my free time I enjoy my spotify Playlist
 
 
