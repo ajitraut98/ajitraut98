@@ -36,7 +36,7 @@
 
 
 ❤️ **Fun facts:** 
-* 📈 Particularly interested in **`Finance`**, **`Trading`** and applying statistical models.
+* 📈 Particularly interested in **`Finance`**, **`Trading&Investing`**.
 * ✨ In my free time I enjoy my spotify Playlist
 
 
